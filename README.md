@@ -1,2 +1,2 @@
 # hello-world
-Testing how GitHub works.
+This is Jordio, trying to work out how GitHub commits work.
